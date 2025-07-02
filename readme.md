@@ -67,7 +67,7 @@ jupyter notebook
 # Clone the repository
 
 ```
-git clone https://github.com/yourusername/harvestguard-crop-system.git
+git clone https://github.com/tushar-hossain/harvestguard-crop-system.git
 
 ```
 
